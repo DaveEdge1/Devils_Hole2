@@ -1,5 +1,3 @@
-# No longer in use, but worked as of Feb 6 2025
-# adapted from https://github.com/binder-examples/rocker
 FROM rocker/binder:4.2.0
 
 ## Declares build arguments
