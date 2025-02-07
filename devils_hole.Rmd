@@ -3,7 +3,7 @@ output: github_document
 ---
 
 ```{r, include = FALSE}
-# This document is reproduced here from the vignette 'Devil's Hole' in the `isogeochem` package
+# This document is adapted from the vignette 'Devil's Hole' in the `isogeochem` package
 # https://github.com/davidbajnai/isogeochem
 ```
 
