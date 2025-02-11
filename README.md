@@ -1,7 +1,13 @@
+<p>
+    <a href="https://shields.io/community#backers" alt="Build Rmd workflow Action">
+        <img src="https://img.shields.io/github/actions/workflow/status/Daveedge1/fairrmd/render-Rmd.yml?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+DQo8c3ZnIHdpZHRoPSIyMDAiIGhlaWdodD0iMjAwIiB2aWV3Qm94PSIwIDAgMjAwIDIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJibGFjayI+DQogIDwhLS0gU21vb3RoIENpcmN1bGFyIEFycm93IHdpdGggTGFyZ2VyIEFycm93aGVhZCBhbmQgQ2VudGVyZWQgQ2hlY2ttYXJrIC0tPg0KICA8cGF0aCBkPSJNIDYwIDE0MCBBIDUwIDUwIDAgMSAxIDE0MCAxNDAiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMTAiIGZpbGw9Im5vbmUiLz4NCiAgPHBvbHlnb24gcG9pbnRzPSI1MCwxNDAgNzUsMTI1IDc1LDE1NSIgZmlsbD0id2hpdGUiIC8+IDwhLS0gTGFyZ2VyIEFycm93aGVhZCBwb2ludGluZyBpbnRvIGNpcmNsZSAtLT4NCiAgPHBvbHlsaW5lIHBvaW50cz0iOTAsMTEwIDEwMCwxMjAgMTIwLDEwMCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxMCIgZmlsbD0ibm9uZSIvPiA8IS0tIENlbnRlcmVkIENoZWNrbWFyayAtLT4NCjwvc3ZnPg==&label=Reproducible&logoColor=white" /></a>
+</p>
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DaveEdge1/Devils_Hole2/HEAD?urlpath=rstudio)
+
 # Reproducible R workflow
 This repo demonstrates the use of GitHub Actions for sharing a reproducible workflow in R
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DaveEdge1/Devils_Hole2/HEAD?urlpath=rstudio)
 ## Reproducing this workflow
 
 ### MyBinder (easiest option)
