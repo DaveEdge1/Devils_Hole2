@@ -6,7 +6,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DaveEdge1/Devils_Hole2/HEAD?urlpath=rstudio)
 
 # Reproducible R workflow
-This repo demonstrates the use of GitHub Actions for sharing a reproducible workflow in R
+This repo demonstrates the use of GitHub Actions for sharing a reproducible workflow in R.
 
 ## Reproducing this workflow
 
